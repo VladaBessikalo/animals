@@ -1,0 +1,5 @@
+# Golden-headed lion tamarin
+
+![Golden-headed lion tamarin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Golden-headed_Lion_Tamarin_095.jpg/330px-Golden-headed_Lion_Tamarin_095.jpg)
+
+The **golden-headed lion tamarin** (*Leontopithecus chrysomelas*), also the golden-headed tamarin, is a lion tamarin endemic to Brazil. It is found only in the lowland and premontane tropical forest fragments in the state of Bahia, and therefore is considered to be an endangered species. It lives at heights of 3–10 metres (9.8–32.8 ft). Its preferred habitat is within mature forest, but with habitat destruction this is not always the case. Several sources seem to have different information on the number of individuals within a group, and the type of social system that may be apparent. The golden-headed lion tamarin lives within group sizes ranging from 2 to 11 individuals, with the average size ranging from 4 to 7.
