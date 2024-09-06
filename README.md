@@ -1,2 +1,4 @@
-# animals
-HYF, Week 1, prep-exercise
+## List of animals:
+* [Bonobo](bonobo.md)
+* [Ring-tailed lemur](lemur.md)
+* [Sloth](sloth.md)
